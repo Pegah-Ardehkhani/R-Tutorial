@@ -35,9 +35,21 @@
 - 3.3. Vector Indexing and Slicing
 - 3.4. Vector Properties
 
-**4. List** <a href="https://colab.research.google.com/github/Pegah-Ardehkhani/R-Tutorial/blob/main/03_R_Vector.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/Pegah-Ardehkhani/R-Tutorial/blob/main/03_R_Vector.ipynb)
+**4. List** <a href="https://colab.research.google.com/github/Pegah-Ardehkhani/R-Tutorial/blob/main/04_R_List.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/Pegah-Ardehkhani/R-Tutorial/blob/main/04_R_List.ipynb)
 
 - 4.1. Creating Lists
 - 4.2. List Indexing and Slicing
 - 4.3. Built-in List Functions
 - 4.4. List Properties
+
+**5. Matrix** <a href="https://colab.research.google.com/github/Pegah-Ardehkhani/R-Tutorial/blob/main/04_R_List.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/Pegah-Ardehkhani/R-Tutorial/blob/main/04_R_List.ipynb)
+
+- 5.1. Creating Matrices
+- 5.2. Built-in Matrix Functions
+- 5.3. Matrix Indexing and Slicing
+- 5.4. Matix Properties
+
+
+
+
+
