@@ -9,7 +9,7 @@
 
 ## Table of content ✍️
 
-**1. Numbers**
+**1. Numbers** <a href="https://colab.research.google.com/github/Pegah-Ardehkhani/R-Tutorial/blob/main/01_R_Numbers.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/Pegah-Ardehkhani/R-Tutorial/blob/main/01_R_Numbers.ipynb)
 
 - 1.1. Types of Numbers in R
 - 1.2. R Built-in Arithmetic Operators
