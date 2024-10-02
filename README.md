@@ -56,7 +56,7 @@
 - 6.3. Built-in Data Frame Functions
 - 6.4. Data Frame Properties
 
-**7. Booleans and Comparison Operators** <a href="https://colab.research.google.com/github/Pegah-Ardehkhani/R-Tutorial/blob/main/06_R_Data_Frame.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/Pegah-Ardehkhani/R-Tutorial/blob/main/06_R_Data_Frame.ipynb)
+**7. Booleans and Comparison Operators** <a href="https://colab.research.google.com/github/Pegah-Ardehkhani/R-Tutorial/blob/main/07_R_Booleans_and_Comparison_Operators.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/Pegah-Ardehkhani/R-Tutorial/blob/main/07_R_Booleans_and_Comparison_Operators.ipynb)
 
 - 7.1. Booleans
 - 7.2. Comparison Operators
