@@ -27,3 +27,11 @@
 - 2.3. Built-in String Functions
 - 2.4. String Indexing
 - 2.5. String Formatting
+
+**4. Vector** <a href="https://colab.research.google.com/github/Pegah-Ardehkhani/R-Tutorial/blob/main/03_R_Vector.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/Pegah-Ardehkhani/R-Tutorial/blob/main/03_R_Vector.ipynb)
+
+- 3.1. Creating Vectors
+- 3.2. Built-in Vector Functions
+- 3.3. Vector Indexing and Slicing
+- 3.4. Vector Properties
+
