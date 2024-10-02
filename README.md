@@ -8,3 +8,12 @@
 
 
 ## Table of content ✍️
+
+**1. Numbers**
+
+- 1.1. Types of Numbers in R
+- 1.2. R Built-in Arithmetic Operators
+- 1.3. R Built-in Arithmetic Functions
+- 1.4. Variable Assignment
+- 1.5. Variable Reassignment
+- 1.6. Determining Variable Type
