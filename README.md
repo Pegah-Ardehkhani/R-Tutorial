@@ -2,6 +2,8 @@
 
 > **`Note`**: This repository is still developing.
 
+> Note: These notebooks are written in Google Colab with R runtime. To change the runtime from Python to R, go to the menu, click on Runtime, select Change runtime type, and then choose R from the Runtime type dropdown menu. This allows you to execute R code seamlessly in the Colab environment.
+
 <p align="center"> 
   <img width="500" height="500" src="https://user-images.githubusercontent.com/1775316/36732568-68dc69e6-1bce-11e8-890a-5cd3a20ab8d6.gif"> 
 </p>
